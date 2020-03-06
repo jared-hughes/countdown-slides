@@ -1,0 +1,473 @@
+1. Claire paid $12.50 less for a book than she paid for a video.
+Altogether she paid $47.50 for both. What was the cost of the
+video, in dollars?
+2. Two similar right triangles have areas of 6 square units
+and 54 square units. The length of the hypotenuse of the
+smaller triangle is 5 units. What is the length, in units, of the
+hypotenuse of the larger triangle?
+3. A die in the shape of a regular octahedron has its eight faces
+numbered 1, 2, 3, 4, 5, 6, 7, 8. The sum of any two opposite
+faces is the same. What number is on the face opposite the face
+numbered 3?
+4. What is the area, in square units, of a regular hexagon inscribed
+in a circle whose area is 324π square units? Express your
+answer in simplest radical form.
+5. If 2
+5 = A
+60 = 60
+B , what is A + B?
+
+6. Three letters are randomly selected without replacement, one
+at a time, from {A, B, C, ..., Z}. What is the probability they
+are selected in alphabetical order? Express your answer as a
+common fraction.
+7. What speed, measured in kilometers per hour, is equivalent to
+5000 cm per minute?
+8. From his base camp at the equator, Bruce hiked on flat terrain
+13 kilometers due north, then 24 km due east, and finally 6 km
+due south. Using a direct route, how many kilometers would
+Bruce be from base camp?
+9. What is 50% more than twice the sum of 12 and 18?
+10. What is the product of the least common multiple and the
+greatest common factor of 20 and 90?
+11. The midpoints of the sides of a triangle with area T are joined
+to form a triangle with area M. What is the ratio of M to T?
+Express your answer as a common fraction.
+12. If 81 is the sum of three numbers that are in the ratio of 6:2:1,
+what is the smallest of these three numbers?
+
+(dollars)
+
+(sq units)
+
+(kph)
+
+(kilometers)
+(units)
+
+Copyright MATHCOUNTS, Inc. 2010. All rights reserved. 2010 State Countdown Round
+
+13. A jar contains over 40 marbles. Each marble is red, white or
+blue. If 3
+7 of the marbles are red and 2
+
+7 of the marbles are white,
+what is the smallest possible number of blue marbles in the jar?
+14. An open box with a square base and a volume of 162 cubic cm is
+to be made by cutting a square with side length 2 cm from each
+corner of a rectangular piece of cardboard and turning up the
+sides. What is the area, in square cm, of the rectangular piece of
+cardboard that is needed?
+15. Line m is parallel to line n and the
+measure of ∠1 is 1
+
+8 the measure of
+∠2. What is the degree measure of
+∠5?
+
+16. Each term of the sequence 3, 10, 17, 24, . . . is seven more than
+the term that precedes it. What is the integer value of the first
+term of the sequence that is greater than 2000?
+17. A box contains 8 marbles that are either red, green, or white.
+There is at least one marble of each color. Exactly one-fourth of
+the red marbles and exactly one-third of the green marbles are
+removed and are replaced with white marbles. How many white
+marbles are now in the box?
+18. What is the smallest possible area, in square units, of a right
+triangle with two sides measuring 4 units and 5 units?
+19. If a = 8, what is the value of (16 3 2
+a )
+1
+3
+?
+
+20. Angie mixed two types of nuts that cost $3.80 per pound and
+$5.20 per pound. If her 28-pound mixture cost $4.20 per pound,
+how many pounds of the more expensive nuts did she use?
+21. The sum of eight one-digit positive integers is 44. If seven of the
+numbers are equal, what is the sum of the possible values for the
+eighth integer?
+22. A rectangle is twice as long as it is wide. The numerical value of
+its area, in square centimeters, is triple the numerical value of its
+perimeter, in centimeters. What is the perimeter of the rectangle,
+in centimeters?
+
+13. ________________
+
+14. ________________
+
+15. ________________
+
+16. ________________
+
+17. ________________
+
+18. ________________
+
+19. ________________
+20. ________________
+
+21. ________________
+
+22. ________________
+(sq cm)
+(blue
+marbles)
+
+(white
+marbles)
+(degrees)
+
+(pounds)
+(sq units)
+
+(centimeters)
+
+m
+
+n
+k
+
+1
+3 2
+4 5
+
+Copyright MATHCOUNTS, Inc. 2010. All rights reserved. 2010 State Countdown Round
+
+23. A dump truck delivered sand to a construction site. The sand
+formed a conical pile with a diameter of 8 feet and a height that
+was 75% of the diameter. How many cubic feet of sand were in
+the pile? Express your answer in terms of π.
+24. How many points whose coordinates are both positive integers
+are on the line that runs through the points (0, 12) and (20, 0)?
+25. The sum of the digits of a two-digit integer is 12. The value of
+the integer is 13 times the tens digit. What is the integer?
+26. If A is 25% larger than B and B is 50% larger than C, what is
+the ratio of C to A? Express your answer as a common fraction.
+27. What is the equation with the smallest positive integer
+coefficients of the line passing through the point (3, −7) and
+perpendicular to the line 4x – 5y = 3? Express your answer in
+the form Ax + By = C, where A and B are the smallest possible
+positive integers.
+28. If a haystack in the shape of a right circular cone has a base
+radius of 5 meters and contains 12 tons of hay, what will be
+the number of tons of hay in a similar conical haystack whose
+base diameter is 15 meters? Two right cones are similar if their
+heights and their base radii are in proportion. Express your
+answer as a decimal to the nearest tenth.
+29. The geometric mean of A and B is defined as A B⋅ .What is the
+positive geometric mean of 9 and 11 1
+9 ?
+
+30. John’s algebra teacher was born in the year “19AB.” In the year
+2010, his teacher will turn “AB” years old; where again A is the
+tens digit and B is the ones digit. In what year was his teacher
+born?
+31. If n is any positive two-digit integer, what is the greatest
+positive integer that must be a factor of n(n +1)(n + 2)(n + 3)?
+32. A regular octahedron is folded
+from the net shown. What
+number shows on the top when
+the face numbered 1 is on the
+bottom?
+33. How many non-congruent triangles can be drawn if each
+triangle has a side 12 units long, a side 13 units long and a right
+angle?
+
+23. ________________
+
+24. ________________
+
+25. ________________
+
+26. ________________
+
+27. ________________
+
+28. ________________
+
+29. ________________
+
+30. ________________
+
+31. ________________
+
+32. ________________
+
+33. ________________
+(cu feet)
+
+(points)
+
+(tons)
+
+1
+2 3
+4 5
+6 7
+8
+
+(triangles)
+
+Copyright MATHCOUNTS, Inc. 2010. All rights reserved. 2010 State Countdown Round
+
+34. In how many different ways can 6 be written as the sum of
+three positive integers if the order of the different addends is
+significant?
+35. If a central angle of 90 degrees defines an arc on circle R that
+has the same length as the arc on circle W defined by a 60-
+degree central angle, what is the ratio of the area of circle R
+to the area of circle W? Express your answer as a common
+fraction.
+36. What is the greatest common factor of all four-digit
+palindromes?
+37. The line 5x + 6y = 27 passes through a point whose coordinates
+are both positive integers. What are the coordinates of this
+point expressed as (x, y)?
+38. The lateral (curved) surface area of a particular right circular
+cylinder (2�rh), in square units, is numerically equal to
+its volume (�r2
+
+h), in cubic units. What is the radius of the
+
+cylinder, in units?
+39. A chord of length 6 units divides a circle into two distinct
+areas. If the circle has a radius of 6 units, what is the area of the
+larger region, in square units? Express your answer in simplest
+radical form in terms of �.
+40. A pair of standard, six-sided dice is rolled three times. What is
+the probability that exactly one of these rolls yields a sum of 7?
+Express your answer as a common fraction.
+41. If 9x – 3 = 729, what is the value of x?
+42. The ratio of two interior angles of a parallelogram is 4:5. What
+is the degree measure of one of the two obtuse angles of the
+parallelogram?
+43. The graphs of y = x2 – 7x + 7 and the line y = –3 intersect at
+two points. What is the sum of the x-coordinates of these two
+points?
+44. Three fair six-sided dice are rolled. What is the probability that
+at least one of the three numbers rolled is greater than or equal
+to 3? Express your answer as a common fraction.
+45. What percent of 3 1
+3 is 1 1
+3 ?
+
+34. ________________
+
+35. ________________
+
+36. ________________
+
+37. ________________
+
+38. ________________
+
+39. ________________
+
+40. ________________
+
+41. ________________
+42. ________________
+
+43. ________________
+
+44. ________________
+
+45. ________________
+(ways)
+
+(sq units)
+
+(percent)
+(units)
+
+(degrees)
+( , )
+
+Copyright MATHCOUNTS, Inc. 2010. All rights reserved. 2010 State Countdown Round
+
+46. What is the area, in square units, of a triangle with vertices at
+A(1, 1), B(6, 1), C(3, 7)?
+47. The terms of an increasing arithmetic sequence have a common
+difference of 2. If the sum of three consecutive terms is 36,
+what is the sum of the next three consecutive terms?
+48. How many positive perfect square integers are factors of
+(210)(312)(515)?
+49. A mixture of green paint contains 3 pints of blue paint and 1
+pint of yellow paint. A mixture of orange paint contains 2 pints
+of red paint and 2 pints of yellow paint. If all of both paint
+mixtures are combined, what fraction of the resulting mixture
+was once yellow paint? Express your answer as a common
+fraction.
+50. In an election for town clerk, there were two candidates. A
+total of 458 people voted exactly once for one candidate or
+the other. The winner got 122 more votes than the loser. How
+many people voted for the winning candidate?
+51. If 0.4818181 is written as a fraction in lowest terms, how much
+greater is the denominator than the numerator?
+52. If uv = 6, what is the value of (u + v)
+2
+− (u − v)
+2
+?
+
+53. A right triangle with legs 10 and 8 is similar to another right
+triangle with legs x and 5, respectively. What is the value of x?
+Express your answer as a decimal to the nearest hundredth.
+54. What is the units digit of the sum 1 + 2 + 3 +... + 2009 +
+2010?
+55. What is the area, in square units, of the square with the four
+vertices at (−2, 2), (2, −2), (−2, −6), and (−6, −2)?
+56. If y varies directly with the square of x and x varies directly
+with the cube of z, by what factor is y multiplied when z is
+doubled?
+57. Six positive integers from a list of nine positive integers are 6,
+7, 2, 4, 8, 5. What is the largest possible value of the median of
+this list of nine positive integers?
+58. What is the smallest possible positive difference between two
+four-digit palindromes?
+
+46. ________________
+
+47. ________________
+
+48. ________________
+
+49. ________________
+
+50. ________________
+
+51. ________________
+
+52. ________________
+53. ________________
+
+54. ________________
+
+55. ________________
+
+56. ________________
+
+57. ________________
+
+58. ________________
+(square
+units)
+
+(people)
+(integers)
+
+(square
+units)
+
+Copyright MATHCOUNTS, Inc. 2010. All rights reserved. 2010 State Countdown Round
+
+59. Circle B has its center at (−6, 2) and a radius of 10 units. What
+is the sum of the y-coordinates of the two points on circle B
+that are also on the y-axis?
+60. A rhombus has a perimeter of 68 units and one of its diagonals
+is 30 units. What is its area in square units?
+61. Ann has 30% less money than Mary, and Jessica has 70% more
+money than Mary. If the three of them have a total of $102,
+how much money does Mary have?
+62. A grocer blends coffee beans from Columbia, Kona and
+Madagascar in the ratio 2:3:4, respectively. In a 207-kilogram
+blend, how many kilograms of Madagascar coffee beans are
+there?
+63. A set of 7 distinct positive integers has a mean of 10, a median
+of 9, and no term larger than 15. What is the minimum possible
+value of any term in the set?
+64. Maria is selling apples for 25 cents per apple or $2.70 for a
+dozen. What percent discount is she giving for buying by the
+dozen?
+65. For how many three-digit positive integers is the sum of the
+digits equal to 4?
+66. The diagonals of a rhombus are 10 inches and 24 inches. What
+is the perimeter of the rhombus, in inches?
+67. Mary takes two marbles, without replacement, from a bag that
+contains 10 red and 5 white marbles. What is the probability
+that both marbles are the same color? Express your answer as a
+common fraction.
+68. The product of three positive integers is 60. What is the
+smallest possible value for the sum of these three positive
+integers?
+69. If five is added to the numerator of a fraction, the resulting
+fraction equals 1 1
+
+2 . If 1 is added to the numerator of the
+original fraction, the resulting fraction is equal to 1. What is the
+original fraction? Express your answer as a common fraction.
+70. If 8r = 3212, what whole number is equal to 4r ÷ 810? Express
+your answer as an integer.
+
+59. ________________
+
+60. ________________
+
+61. ________________
+
+62. ________________
+
+63. ________________
+
+64. ________________
+
+65. ________________
+
+66. ________________
+
+67. ________________
+
+68. ________________
+
+69. ________________
+
+70. ________________
+(dollars)
+(square
+units)
+
+(kilograms)
+
+(percent)
+
+(inches)
+(integers)
+
+Copyright MATHCOUNTS, Inc. 2010. All rights reserved. 2010 State Countdown Round
+
+71. Laura will have seven test scores at the end of the semester.
+Each of the scores is a positive integer less than or equal
+to 100. Her first five scores are 80, 83, 87, 94 and 96. How
+many different values are possible for the median of her seven
+scores?
+72. Rod counted the bills in his wallet, but he reversed the number
+of $5 bills and $1 bills. The correct total was $16 more than the
+incorrect total. If there were three $1 bills, how many $5 bills
+did Rod have?
+73. The product of three consecutive odd integers is 4845. What is
+the largest of these three integers?
+74. Pat the Printer is in charge of numbering the pages of a book.
+He has plenty of all the digits 1 through 9, but only has 100
+zeroes to work with. If Pat starts with 1, numbers every page
+and doesn’t skip any numbers, on what page will Pat use the
+last zero?
+75. A bottle of vanilla contains 18 tablespoons when completely
+full. A recipe calls for 1 1
+
+4 tablespoons of vanilla. How many
+tablespoons will be left in the bottle after making a triple
+batch? Express your answer as a mixed number.
+76. There are 24 four-digit positive integers that can be formed
+using each of the digits 2, 3, 7, 9 exactly once. How many of
+these 24 integers are prime?
+77. If x is an integer, what is the smallest value of the expression
+x2
+− 6x +13?
+78. What is the number of square meters in the area of a circle with
+diameter 6 meters? Express your answer in terms of �.
+79. How many integers k satisfy the equation k2
+≤ 11?
+
+80. What is the greatest integer less than 19
+3 ?

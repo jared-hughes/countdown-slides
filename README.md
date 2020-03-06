@@ -1,15 +1,7 @@
-# Google Slides API Codelab
+# Countdown-slides
 
-In this codelab, you’ll learn how you can use
-[Google Slides API](https://developers.google.com/slides/) as a custom
-presentation tool for an analysis of the most common software licenses. You’ll
-be querying all open source code on GitHub using
-[BigQuery](https://cloud.google.com/bigquery/) and creating a slide deck using
-Google Slides API to present your results. The sample application is built using
-Node.js, but the same basic principles are applicable to any architecture.
+Paste copied questions into `start/questions.txt`.
 
-## Getting Started
+Navigate to `start` directory, then run `node .`.
 
-Go to the
-[Slides Codelab](https://codelabs.developers.google.com/codelabs/slides-api/#0)
-to get started.
+Wait until it pops up the slides, then clean up the questions and put in answers.
