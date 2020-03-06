@@ -12,19 +12,34 @@ const parseData = (text) => {
       continue;
     }
     if (match.includes('MATHCOUNTS')) {
-      year = match.match(/\s\d{4}\s/)[0];
-      level = match.match(/school|chapter|state|national/i);
+      n = match.match(/(\d{4}) (school|chapter|state|national)/i);
+      [year, level] = [n[1], n[2]]
       continue;
     }
     ls.push(match);
-    // extra slide for answer
-    ls.push("42");
+  }
+  if (parseInt(year) >= 2012) {
+    ls = [];
+    const qregex = /([A-Z](.|\n)*?\?.*)/g
+    let i = 1;
+    while (a = qregex.exec(text)) {
+      const match = a[1].replace(/\n/g, ' ');
+      if (match.includes('MATHCOUNTS')) continue;
+      ls.push(i + ". " + match);
+      i++;
+    }
+  }
+  let qAndA = [];
+  for (let q of ls) {
+    qAndA.push(q);
+    // placeholder for answer
+    qAndA.push("42");
   }
   return {
     year: year,
     level: level,
-    questions: ls
-  };
+    questions: qAndA
+  }
 }
 
 const getData = () => {
